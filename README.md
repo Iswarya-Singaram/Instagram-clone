@@ -18,11 +18,10 @@ Welcome to my Instagram clone project! This is a static web page created using H
 
 ## How to view
 
-Download the ZIP file:
+### 1.Download the ZIP file:
 
 If you haven't already, download the ZIP file from the repository or from the provided link.
-Extract the ZIP file:
-
+### 2.Extract the ZIP file:
 #### On Windows:
 <ol>
 <li>Locate the downloaded ZIP file in your file explorer.</li>
@@ -43,15 +42,17 @@ Extract the ZIP file:
 <li>Navigate to the directory containing the ZIP file.</li>
 <li>Use the command unzip filename.zip (replace filename.zip with the actual file name).</li>
 <li>The contents will be extracted to a directory in the current location.</li>
-<li>Navigate to the Project Directory:</li>
 </ol>
 
-Open the extracted folder to view the contents of the project.
-Open the Project in a Web Browser:
+### 3.Navigate to the Project Directory:
+<li>Open the extracted folder to view the contents of the project.</li>
 
-Locate the index file within the extracted folder.
-Double-click the index file to open it in your default web browser.
-Alternatively, you can right-click the index file, select "Open with", and choose your preferred web browser.
+### 4.Open the Project in a Web Browser:
+<ul>
+  <li>Locate the index file within the extracted folder.</li>
+<li>Double-click the index file to open it in your default web browser.</li>
+<li>Alternatively, you can right-click the index file, select "Open with", and choose your preferred web browser.</li>
+</ul>
 
 ![WhatsApp Image 2024-06-16 at 12 20 59](https://github.com/Iswarya-Singaram/Static_Instagram_Clone/assets/145309713/99f56b54-7d5a-4bee-aefe-d0a95d42d44a)
 
