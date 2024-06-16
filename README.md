@@ -17,7 +17,41 @@ Welcome to my Instagram clone project! This is a static web page created using H
 </ul>
 
 ## How to view
-To view the Instagram clone, simply open the index.html file in your web browser. You can also clone this repository and explore the code to see how the clone was implemented.
+
+Download the ZIP file:
+
+If you haven't already, download the ZIP file from the repository or from the provided link.
+Extract the ZIP file:
+
+#### On Windows:
+<ol>
+<li>Locate the downloaded ZIP file in your file explorer.</li>
+<li>Right-click on the ZIP file and select "Extract All...".</li>
+<li>Choose a destination folder and click "Extract".</li>
+</ol>
+
+#### On Mac:
+<ol>
+<li>Locate the downloaded ZIP file in Finder.</li>
+<li>Double-click the ZIP file to extract it automatically.</li>
+<li>The extracted folder will appear in the same location as the ZIP file.</li>
+</ol>
+
+####  On Linux:
+<ol>
+<li>Open the terminal.</li>
+<li>Navigate to the directory containing the ZIP file.</li>
+<li>Use the command unzip filename.zip (replace filename.zip with the actual file name).</li>
+<li>The contents will be extracted to a directory in the current location.</li>
+<li>Navigate to the Project Directory:</li>
+</ol>
+
+Open the extracted folder to view the contents of the project.
+Open the Project in a Web Browser:
+
+Locate the index file within the extracted folder.
+Double-click the index file to open it in your default web browser.
+Alternatively, you can right-click the index file, select "Open with", and choose your preferred web browser.
 
 ![WhatsApp Image 2024-06-16 at 12 20 59](https://github.com/Iswarya-Singaram/Static_Instagram_Clone/assets/145309713/99f56b54-7d5a-4bee-aefe-d0a95d42d44a)
 
